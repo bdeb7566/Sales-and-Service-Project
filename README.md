@@ -1,2 +1,3 @@
-# Sales-and-Service-Project
-#Defalt username and Password :admin 
+# Sales-and-Service-VB-Project
+#Default username :rkdc
+#Password :02751
